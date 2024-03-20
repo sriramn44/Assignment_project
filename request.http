@@ -1,0 +1,11 @@
+
+get http://localhost:3000/api/company/AAPL
+###
+
+get http://localhost:3000/api/company/AAPL
+###
+
+GET  http://localhost:3000/api/data?ticker=AAPL&column=revenue,gp&period=5
+
+###
+get http://localhost:3000/api/company/register
